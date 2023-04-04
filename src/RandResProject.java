@@ -2,7 +2,7 @@
  * 
  * ชื่อโปรเจต : RandomRestaraunt JavaGUI Project
  * ผู้จัดทำ : นายวิริทธิ์พล ทับขัน 6530300503
- * หัวข้อที่ใช้กับ Project: GUI , switch-case ,if , else, forLoop, foreach, array, arraylist, hashmap, exception, gui, events ,polymorphism
+ * หัวข้อที่ใช้กับ Project: GUI , switch-case ,if , else, forLoop, foreach, array, arraylist, hashmap, exception, gui, events ,polymorphism,Generic
  *
  **/
 import javax.swing.*;
